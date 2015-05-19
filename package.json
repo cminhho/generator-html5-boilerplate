@@ -1,6 +1,6 @@
 {
   "name": "generator-html5-boilerplate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "html5-boilerplate generator that scaffolds out a front-end web app",
   "keywords": "html5-boilerplate, yeoman-generator, html5, gulp",
   "license": "MIT",
