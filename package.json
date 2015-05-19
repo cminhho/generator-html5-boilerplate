@@ -1,0 +1,30 @@
+{
+  "name": "generator-html5-boilerplate",
+  "version": "0.0.1",
+  "description": "html5-boilerplate generator that scaffolds out a front-end web app",
+  "keywords": "html5-boilerplate, yeoman-generator, html5, gulp",
+  "license": "MIT",
+  "main": "app/index.js",
+  "author": {
+    "name": "Chung Ho",
+    "email": "hmchung92@gmail",
+    "url": "https://github.com/cminhho"
+  },
+  "keywords": [
+    "html5-boilerplate",
+    "stylus",
+    "gulp",
+    "html5"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "cminhho/generator-html5-boilerplate"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.19.2",
+    "yosay": "~1.0.3"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
